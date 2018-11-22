@@ -10,9 +10,9 @@
 privado.txt
 privada carpeta 
 
-.
 ```
 ##Crar tags	
+
 ##Crear tabla
 
 | Nombre | PAGINA |
