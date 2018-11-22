@@ -15,14 +15,11 @@ privada carpeta
 ##Crar tags	
 ##Crear tabla
 
-| Plugin | README |
+| Nombre | PAGINA |
 | ------.| ------ |
-
-| Alberto | alberto Lomas|
-
+| Alberto | alberto Lomas |
 | Canales | Canales |
-
-| Fran    | Fran |
+| Fran | Fran |
 
 
 
