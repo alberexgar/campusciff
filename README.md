@@ -4,6 +4,7 @@
 ## Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje comimit inicial
 ## Push Inicial
 ## Ignorar Archivos
+   Crear:
 ```sh
  
 privado.txt
