@@ -18,11 +18,11 @@ privada carpeta
 | Plugin | README |
 | ------.| ------ |
 
-| Alberto | [plugins/dropbox/README.md][PlDb] |
+| Alberto | alberto Lomas|
 
-| Canales | [plugins/github/README.md][PlGh] |
+| Canales | Canales |
 
-| Fran    | [plugins/googledrive/README.md][PlGd] |
+| Fran    | Fran |
 
 
 
