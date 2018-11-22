@@ -12,7 +12,16 @@ privada carpeta
 
 .
 ```
-	
-##
+##Crar tags	
+##Crear tabla
+| Plugin | README |
+| ------ | ------ |
+
+| Alberto | [plugins/dropbox/README.md][PlDb] |
+
+| Canales| [plugins/github/README.md][PlGh] |
+
+| Fran| [plugins/googledrive/README.md][PlGd] |
+
 
 
