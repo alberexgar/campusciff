@@ -11,14 +11,16 @@ privado.txt
 privada carpeta 
 
 ```
-##Crar tags	
+## Crear tags	
 
 ##Crear tabla
 
-| First Header  | Second Header |
+| Nombre | Enlace |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Alberto  | Content Cell  |
+| Canales  | Content Cell  |
+| Javi  | Content Cell  |
+| Fran  | Content Cell  |
 
 
 
