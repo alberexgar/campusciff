@@ -15,11 +15,10 @@ privada carpeta
 
 ##Crear tabla
 
-| Nombre | PAGINA |
-| ------.| ------ |
-| Alberto | alberto Lomas |
-| Canales | Canales |
-| Fran | Fran |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
