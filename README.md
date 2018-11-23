@@ -1,6 +1,6 @@
 ﻿# campusciff
 ## Crear un repositorio en vuestro GitHub
-![alt tag](https://drive.google.com/file/d/1dEOBDubk7LCeyNZe0WDmPE4X7Lh08hBk/view?usp=sharing)
+![screenshot_6](https://user-images.githubusercontent.com/45201565/48945909-3fa24a00-ef2c-11e8-9969-932c141a4f25.png)
 ## Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje comimit inicial
 ## Push Inicial
 ## Ignorar Archivos
